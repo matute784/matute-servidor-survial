@@ -401,3 +401,6 @@ SZOdSceTAlrGJyMG1SHufEMU9dtaD_dq
 
 TUNNELS
 held-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
