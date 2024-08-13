@@ -6019,3 +6019,18 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAs4ZAAAAZFNKJ1TAAA
 
 TUNNELS
 held-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723576408412 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAs4ZAAAAZFNKNldAAAAAQAAAAEAAAAAAAAAAKtIrrBHNnxxJowAJj7bhgyKkXgUC5jHfnW93HHBVGRx
+
+TUNNELS
+held-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.19): 1723576411535 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAs4ZAAAAZFNKNldAAAAAQAAAAEAAAAAAAAAAKtIrrBHNnxxJowAJj7bhgyKkXgUC5jHfnW93HHBVGRx
+
+TUNNELS
+held-tion.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
